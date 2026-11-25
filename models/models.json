@@ -1,0 +1,18 @@
+{
+  "cnn.keras": {
+    "label": "CNN (raw pixels)",
+    "positive_class": "FAKE",
+    "scale_0_1": false
+  },
+  "random_forest.joblib": {
+    "label": "Random Forest (handcrafted)",
+    "positive_class": "FAKE",
+    "features": "handcrafted"
+  },
+  "xgboost.json": {
+    "label": "XGBoost (handcrafted)",
+    "positive_class": "FAKE",
+    "features": "handcrafted",
+    "loader": "xgboost"
+  }
+}

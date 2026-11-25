@@ -1,0 +1,4 @@
+,accuracy,precision,recall,f1,roc_auc
+RandomForest,0.92,0.92,0.92,0.92,0.9756
+XGBoost,0.944,0.944,0.944,0.944,0.9876
+CNN,0.9388,0.9741,0.9015,0.9364,0.9894

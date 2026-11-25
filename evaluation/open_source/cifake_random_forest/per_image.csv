@@ -1,0 +1,101 @@
+image,label,condition,P_AI
+pollinations/00_airplane.png,AI,original,0.64
+pollinations/01_automobile.png,AI,original,0.6533333333333333
+pollinations/02_bird.png,AI,original,0.4166666666666667
+pollinations/03_cat.png,AI,original,0.53
+pollinations/04_deer.png,AI,original,0.19666666666666666
+pollinations/05_dog.png,AI,original,0.38
+pollinations/06_frog.png,AI,original,0.4033333333333333
+pollinations/07_horse.png,AI,original,0.6533333333333333
+pollinations/08_ship.png,AI,original,0.57
+pollinations/09_truck.png,AI,original,0.38
+real/00_airplane.jpg,real,original,0.4166666666666667
+real/01_automobile.jpg,real,original,0.78
+real/02_bird.jpg,real,original,0.5966666666666667
+real/03_cat.jpg,real,original,0.2833333333333333
+real/04_deer.jpg,real,original,0.2866666666666667
+real/05_dog.jpg,real,original,0.37666666666666665
+real/06_frog.jpg,real,original,0.7
+real/07_horse.jpg,real,original,0.3333333333333333
+real/08_ship.jpg,real,original,0.42333333333333334
+real/09_truck.jpg,real,original,0.6566666666666666
+pollinations/00_airplane.png,AI,JPEG q=75,0.6566666666666666
+pollinations/01_automobile.png,AI,JPEG q=75,0.6633333333333333
+pollinations/02_bird.png,AI,JPEG q=75,0.38666666666666666
+pollinations/03_cat.png,AI,JPEG q=75,0.52
+pollinations/04_deer.png,AI,JPEG q=75,0.16666666666666666
+pollinations/05_dog.png,AI,JPEG q=75,0.3566666666666667
+pollinations/06_frog.png,AI,JPEG q=75,0.43333333333333335
+pollinations/07_horse.png,AI,JPEG q=75,0.6366666666666667
+pollinations/08_ship.png,AI,JPEG q=75,0.59
+pollinations/09_truck.png,AI,JPEG q=75,0.36333333333333334
+real/00_airplane.jpg,real,JPEG q=75,0.4
+real/01_automobile.jpg,real,JPEG q=75,0.7666666666666667
+real/02_bird.jpg,real,JPEG q=75,0.5766666666666667
+real/03_cat.jpg,real,JPEG q=75,0.27666666666666667
+real/04_deer.jpg,real,JPEG q=75,0.28
+real/05_dog.jpg,real,JPEG q=75,0.4033333333333333
+real/06_frog.jpg,real,JPEG q=75,0.6733333333333333
+real/07_horse.jpg,real,JPEG q=75,0.3333333333333333
+real/08_ship.jpg,real,JPEG q=75,0.4166666666666667
+real/09_truck.jpg,real,JPEG q=75,0.67
+pollinations/00_airplane.png,AI,downscale 50%,0.64
+pollinations/01_automobile.png,AI,downscale 50%,0.6466666666666666
+pollinations/02_bird.png,AI,downscale 50%,0.3933333333333333
+pollinations/03_cat.png,AI,downscale 50%,0.5266666666666666
+pollinations/04_deer.png,AI,downscale 50%,0.19666666666666666
+pollinations/05_dog.png,AI,downscale 50%,0.36666666666666664
+pollinations/06_frog.png,AI,downscale 50%,0.44333333333333336
+pollinations/07_horse.png,AI,downscale 50%,0.63
+pollinations/08_ship.png,AI,downscale 50%,0.57
+pollinations/09_truck.png,AI,downscale 50%,0.38
+real/00_airplane.jpg,real,downscale 50%,0.39
+real/01_automobile.jpg,real,downscale 50%,0.7633333333333333
+real/02_bird.jpg,real,downscale 50%,0.6166666666666667
+real/03_cat.jpg,real,downscale 50%,0.26
+real/04_deer.jpg,real,downscale 50%,0.32
+real/05_dog.jpg,real,downscale 50%,0.39666666666666667
+real/06_frog.jpg,real,downscale 50%,0.6966666666666667
+real/07_horse.jpg,real,downscale 50%,0.35
+real/08_ship.jpg,real,downscale 50%,0.42333333333333334
+real/09_truck.jpg,real,downscale 50%,0.6566666666666666
+pollinations/00_airplane.png,AI,noise sigma=8,0.6166666666666667
+pollinations/01_automobile.png,AI,noise sigma=8,0.6333333333333333
+pollinations/02_bird.png,AI,noise sigma=8,0.38333333333333336
+pollinations/03_cat.png,AI,noise sigma=8,0.54
+pollinations/04_deer.png,AI,noise sigma=8,0.23666666666666666
+pollinations/05_dog.png,AI,noise sigma=8,0.36666666666666664
+pollinations/06_frog.png,AI,noise sigma=8,0.43666666666666665
+pollinations/07_horse.png,AI,noise sigma=8,0.6366666666666667
+pollinations/08_ship.png,AI,noise sigma=8,0.5733333333333334
+pollinations/09_truck.png,AI,noise sigma=8,0.33666666666666667
+real/00_airplane.jpg,real,noise sigma=8,0.3466666666666667
+real/01_automobile.jpg,real,noise sigma=8,0.7666666666666667
+real/02_bird.jpg,real,noise sigma=8,0.6133333333333333
+real/03_cat.jpg,real,noise sigma=8,0.29333333333333333
+real/04_deer.jpg,real,noise sigma=8,0.3233333333333333
+real/05_dog.jpg,real,noise sigma=8,0.33666666666666667
+real/06_frog.jpg,real,noise sigma=8,0.6866666666666666
+real/07_horse.jpg,real,noise sigma=8,0.34
+real/08_ship.jpg,real,noise sigma=8,0.4266666666666667
+real/09_truck.jpg,real,noise sigma=8,0.6366666666666667
+pollinations/00_airplane.png,AI,centre crop 70%,0.59
+pollinations/01_automobile.png,AI,centre crop 70%,0.52
+pollinations/02_bird.png,AI,centre crop 70%,0.37
+pollinations/03_cat.png,AI,centre crop 70%,0.35333333333333333
+pollinations/04_deer.png,AI,centre crop 70%,0.21333333333333335
+pollinations/05_dog.png,AI,centre crop 70%,0.19333333333333333
+pollinations/06_frog.png,AI,centre crop 70%,0.4166666666666667
+pollinations/07_horse.png,AI,centre crop 70%,0.6066666666666667
+pollinations/08_ship.png,AI,centre crop 70%,0.7166666666666667
+pollinations/09_truck.png,AI,centre crop 70%,0.4033333333333333
+real/00_airplane.jpg,real,centre crop 70%,0.29333333333333333
+real/01_automobile.jpg,real,centre crop 70%,0.75
+real/02_bird.jpg,real,centre crop 70%,0.5366666666666666
+real/03_cat.jpg,real,centre crop 70%,0.29
+real/04_deer.jpg,real,centre crop 70%,0.4
+real/05_dog.jpg,real,centre crop 70%,0.35
+real/06_frog.jpg,real,centre crop 70%,0.71
+real/07_horse.jpg,real,centre crop 70%,0.31
+real/08_ship.jpg,real,centre crop 70%,0.5433333333333333
+real/09_truck.jpg,real,centre crop 70%,0.5466666666666666

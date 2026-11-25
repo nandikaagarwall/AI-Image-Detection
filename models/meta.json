@@ -1,0 +1,12 @@
+{
+  "classes": [
+    "REAL",
+    "FAKE"
+  ],
+  "img_size": 32,
+  "feature_dim": 444,
+  "xgb_best_iteration": 345,
+  "seed": 42,
+  "train_images": 20000,
+  "test_images": 4000
+}
